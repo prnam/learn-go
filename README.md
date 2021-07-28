@@ -1,2 +1,2 @@
 # learn-go
- Everything i learnt on Go Language
+ Everything I learnt about Go language
